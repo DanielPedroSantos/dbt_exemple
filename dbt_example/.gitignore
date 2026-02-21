@@ -1,4 +1,5 @@
-.yml
+
+dbt_project.yml
 .env
 .venv
 venv/
